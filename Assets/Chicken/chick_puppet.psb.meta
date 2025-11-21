@@ -163,8 +163,8 @@ ScriptedImporter:
     spritePosition: {x: 831, y: 1197}
   - name: Wing R
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.5688544, y: 0.95949787}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
@@ -185,8 +185,8 @@ ScriptedImporter:
     spritePosition: {x: 447, y: 748}
   - name: Wing L
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.42617887, y: 0.96747315}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
